@@ -1,4 +1,4 @@
-## Simple Todo App
+## Collect Your Notes App
 MongoDB, Express, React and NodeJS were used
 
 ## Live
